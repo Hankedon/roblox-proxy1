@@ -1,6 +1,7 @@
 {
     "version": 2,
     "routes": [
-        { "src": "/catalog", "dest": "/api/index.js" }
+        { "src": "/catalog", "dest": "/api/catalog.js" },
+        { "src": "/api/catalog", "dest": "/api/catalog.js" }
     ]
 }
