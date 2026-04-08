@@ -1,7 +1,3 @@
 {
-    "version": 2,
-    "routes": [
-        { "src": "/catalog", "dest": "/api/catalog.js" },
-        { "src": "/api/catalog", "dest": "/api/catalog.js" }
-    ]
+    "version": 2
 }
